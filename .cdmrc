@@ -1,2 +1,2 @@
-tabs: ['contracts/Auction.sol']
+tabs: ['contracts/Auction.sol','test/auctionTest.js']
 terminal-one: yarn
