@@ -1,2 +1,2 @@
-tabs: ['contracts/Auction.sol','test/auctionTest.js']
-terminal-one: yarn
+tabs: ['contracts/Auction.sol']
+terminals: ['yarn install']
